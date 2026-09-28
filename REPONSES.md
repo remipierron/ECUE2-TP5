@@ -19,9 +19,9 @@ Nom / Prénom :
 
 ## Partie 2
 
-**2.1** :
+**2.1** : non. Les attributs sont final et les règles métier interdisent de modifier un auteur après sa création.
 
-**2.2** :
+**2.2** : parce que c'est à l'objet de garantir ses propres invariants. L'appelant ne devrait pas connaître les règles métier. C'est le principe d'encapsulation.
 
 ## Partie 3
 

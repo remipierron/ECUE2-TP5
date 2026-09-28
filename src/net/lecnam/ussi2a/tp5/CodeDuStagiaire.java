@@ -34,7 +34,7 @@ public class CodeDuStagiaire {
         System.out.println(germinal);
 
         System.out.println("\n=== Étape 3 : un auteur contemporain");
-        Auteur inconnu = new Auteur("Dupont", "Jean", LocalDate.of(2090, 1, 1));
+        Auteur inconnu = new Auteur("Dupont", "Jean", LocalDate.of(2020, 1, 1));
         System.out.println(inconnu);
 
         System.out.println("\n=== Étape 4 : \"correction\" d'une faute de frappe");

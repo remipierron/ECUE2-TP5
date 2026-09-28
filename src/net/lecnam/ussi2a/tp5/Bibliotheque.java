@@ -4,7 +4,7 @@ package net.lecnam.ussi2a.tp5;
  * Code écrit par l'ancien stagiaire.
  */
 public class Bibliotheque {
-    public Livre[] livres = new Livre[100];
+    public Livre[] livres = new Livre[200];
     public int nbLivres = 0;
 
     public void ajouterLivre(Livre livre) {
