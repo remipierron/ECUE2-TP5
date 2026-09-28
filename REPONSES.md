@@ -6,16 +6,16 @@ Nom / Prénom :
 
 | Étape | Ce qui est anormal | Ligne responsable | Classe qui aurait dû l'empêcher |
 |-------|--------------------|-------------------|---------------------------------|
-| 1     |                    |                   |                                 |
-| 2     |                    |                   |                                 |
+| 1     |nom en static string|Auteur.java / l11  |                                 |
+| 2     |nb livres max à 101 |Bibliotheque /   l6|                                 |
 | 3     |                    |                   |                                 |
 | 4     |                    |                   |                                 |
 | 5     |                    |                   |                                 |
 | 6     |                    |                   |                                 |
 
-**1.1** :
+**1.1** : parce que le nom est en static string
 
-**1.2** :
+**1.2** : le code appelle correctement la classe, et la classe écrase le nom à chaque nouvel auteur.
 
 ## Partie 2
 
